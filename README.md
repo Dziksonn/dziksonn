@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my github page👋
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=475452946037866508)
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3SCRV8)
 
