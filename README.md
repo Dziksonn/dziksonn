@@ -7,7 +7,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3SCRV8)
 
 ### CTF Writeups
-[Click here](https://dziksonn.github.io/ctf-writeups/)
+[Main page](https://dziksonn.github.io/ctf-writeups/)
+[DEFCON 2024 GameHacking.gg](https://dziksonn.github.io/ctf-writeups/writeups.html)
 
 <!--
 **Dziksonn/dziksonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
