@@ -7,7 +7,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3SCRV8)
 
 ### CTF Writeups
-[Main page](https://dziksonn.github.io/ctf-writeups/)
+[Main page](https://dziksonn.github.io/ctf-writeups/)<br>
 [DEFCON 2024 GameHacking.gg](https://dziksonn.github.io/ctf-writeups/writeups.html)
 
 <!--
