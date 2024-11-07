@@ -6,6 +6,9 @@
 ### If you like any of my repos, you can support me here!<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3SCRV8)
 
+### CTF Writeups
+[Click here](https://dziksonn.github.io/ctf-writeups/)
+
 <!--
 **Dziksonn/dziksonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
